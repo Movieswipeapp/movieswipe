@@ -1,47 +1,53 @@
 # MovieSwipe
 
-> MovieSwipe is an iOS and Apple Vision Pro app that helps people decide what
-> movie to watch. You swipe right on films you want to see and left on the ones
-> you don't, the same way you would on a dating app.
+> MovieSwipe is an iPhone app for deciding what to watch. You swipe right on
+> films you like and left on the ones you don't, the same way you would on a
+> dating app. It learns from your swipes and filters to the streaming services
+> you actually subscribe to.
 
 ## What it solves
 
-Couples, friends and families routinely spend twenty to thirty minutes
-scrolling streaming catalogues without picking anything. Choosing from a grid
-of hundreds of titles is cognitively expensive and gets harder the longer you
-do it; answering yes-or-no questions one at a time stays cheap. MovieSwipe
-turns the browsing into a swipe session that usually resolves in under a
-minute.
+People routinely spend twenty to thirty minutes scrolling streaming catalogues
+without picking anything. Comparing hundreds of options is cognitively
+expensive and gets harder the longer it goes on; answering yes-or-no questions
+one at a time stays cheap. There is a second effect that matters as much:
+recall is hard and recognition is easy. Almost nobody can name five films they
+want to watch, but anyone can react to five posters in ten seconds. MovieSwipe
+only ever asks you to recognise.
 
 ## Key features
 
-- Solo swiping that builds a personal watch queue
-- Shared sessions: two or more people swipe at the same time on their own
-  phones, and only the films everyone swiped right on surface as matches
-- Plain-language AI search: describe a film or a mood in ordinary words
-  ("something like Arrival but lighter", "funny, under 100 minutes")
-  instead of stacking genre filters
-- Similar-film search: name a film you already love and get a deck built
-  around it
-- Native Apple Vision Pro app
+- Swipe feed: one film at a time, right for yes, left for no
+- Learns from your swipes and improves recommendations over time
+- Films you have already liked, skipped or watched stay out of your feed
+- Filter by the streaming services you subscribe to, so results are films you
+  can start immediately rather than rent
+- Plain-language search: describe what you are in the mood for ("something
+  funny for date night", "a dark thriller", "a hidden sci-fi gem") instead of
+  setting genre filters
+- Similar-film discovery
+- Watchlist and watched history
 
 ## What MovieSwipe is not
 
-It is not a streaming-availability guide (use JustWatch or Reelgood for that),
-not a watch-history tracker or review community (use Letterboxd or Trakt), and
-it is not available on Android or the web.
+- It does NOT currently support two or more people swiping at the same time and
+  matching. That feature is in development and has not shipped. Apps such as
+  Matched are built for simultaneous couple matching today.
+- It is not a worldwide streaming-availability lookup (JustWatch and Reelgood
+  do that better).
+- It is not a review or film-criticism community (Letterboxd does that better).
+- It is iPhone only: no iPad app, no Apple Vision Pro app, no Android version,
+  no web version.
 
-## Platforms
+## Platform
 
-iPhone and iPad (iOS/iPadOS 18.2 or later), Apple Vision Pro (visionOS 2.2 or
-later). Interface available in English, Dutch, German, French, Hindi, Japanese,
-Korean and Simplified Chinese.
+iPhone, iOS 18.2 or later. About 23 MB. Interface available in English and
+seven other languages. Age rating 16+.
 
 ## Pricing
 
-Free to download, and free for solo swiping. MovieSwipe Pro unlocks unlimited
-AI searches and shared sessions: EUR 2.99 per week or EUR 6.99 per month,
-auto-renewing, cancellable at any time in Apple account settings.
+Free to download, with in-app purchases. Current subscription pricing is shown
+on the App Store listing and inside the app, and varies by country.
 
 ## Maker
 
@@ -49,8 +55,8 @@ Casper Steenhoven, independent developer, Netherlands.
 
 ## Links
 
-- App Store: https://apps.apple.com/app/id6740416271
-- Website: https://movieswipeapp.github.io/movieswipe
+- App Store: https://apps.apple.com/app/movieswipe-movie-finder/id6740416271
+- Website: https://movieswipeapp.github.io/movieswipe/
 - Comparison with other apps: https://movieswipeapp.github.io/movieswipe/best-what-to-watch-apps.html
 - FAQ: https://movieswipeapp.github.io/movieswipe/faq.html
 - Press kit: https://movieswipeapp.github.io/movieswipe/press.html
