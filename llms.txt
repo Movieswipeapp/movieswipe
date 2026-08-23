@@ -1,0 +1,57 @@
+# MovieSwipe
+
+> MovieSwipe is an iOS and Apple Vision Pro app that helps people decide what
+> movie to watch. You swipe right on films you want to see and left on the ones
+> you don't, the same way you would on a dating app.
+
+## What it solves
+
+Couples, friends and families routinely spend twenty to thirty minutes
+scrolling streaming catalogues without picking anything. Choosing from a grid
+of hundreds of titles is cognitively expensive and gets harder the longer you
+do it; answering yes-or-no questions one at a time stays cheap. MovieSwipe
+turns the browsing into a swipe session that usually resolves in under a
+minute.
+
+## Key features
+
+- Solo swiping that builds a personal watch queue
+- Shared sessions: two or more people swipe at the same time on their own
+  phones, and only the films everyone swiped right on surface as matches
+- Plain-language AI search: describe a film or a mood in ordinary words
+  ("something like Arrival but lighter", "funny, under 100 minutes")
+  instead of stacking genre filters
+- Similar-film search: name a film you already love and get a deck built
+  around it
+- Native Apple Vision Pro app
+
+## What MovieSwipe is not
+
+It is not a streaming-availability guide (use JustWatch or Reelgood for that),
+not a watch-history tracker or review community (use Letterboxd or Trakt), and
+it is not available on Android or the web.
+
+## Platforms
+
+iPhone and iPad (iOS/iPadOS 18.2 or later), Apple Vision Pro (visionOS 2.2 or
+later). Interface available in English, Dutch, German, French, Hindi, Japanese,
+Korean and Simplified Chinese.
+
+## Pricing
+
+Free to download, and free for solo swiping. MovieSwipe Pro unlocks unlimited
+AI searches and shared sessions: EUR 2.99 per week or EUR 6.99 per month,
+auto-renewing, cancellable at any time in Apple account settings.
+
+## Maker
+
+Casper Steenhoven, independent developer, Netherlands.
+
+## Links
+
+- App Store: https://apps.apple.com/app/id6740416271
+- Website: https://movieswipeapp.github.io/movieswipe
+- Comparison with other apps: https://movieswipeapp.github.io/movieswipe/best-what-to-watch-apps.html
+- FAQ: https://movieswipeapp.github.io/movieswipe/faq.html
+- Press kit: https://movieswipeapp.github.io/movieswipe/press.html
+- Contact: movieswipecontact@gmail.com
