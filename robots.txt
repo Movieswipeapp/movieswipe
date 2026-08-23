@@ -1,4 +1,4 @@
-# MovieSwipe — https://movieswipeapp.github.io/movieswipe
+# MovieSwipe — https://getmovieswipe.com
 # AI crawlers are explicitly welcome.
 
 User-agent: GPTBot
@@ -46,4 +46,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://movieswipeapp.github.io/movieswipe/sitemap.xml
+Sitemap: https://getmovieswipe.com/sitemap.xml

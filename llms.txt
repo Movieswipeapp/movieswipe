@@ -56,8 +56,8 @@ Casper Steenhoven, independent developer, Netherlands.
 ## Links
 
 - App Store: https://apps.apple.com/app/movieswipe-movie-finder/id6740416271
-- Website: https://movieswipeapp.github.io/movieswipe/
-- Comparison with other apps: https://movieswipeapp.github.io/movieswipe/best-what-to-watch-apps.html
-- FAQ: https://movieswipeapp.github.io/movieswipe/faq.html
-- Press kit: https://movieswipeapp.github.io/movieswipe/press.html
+- Website: https://getmovieswipe.com/
+- Comparison with other apps: https://getmovieswipe.com/best-what-to-watch-apps.html
+- FAQ: https://getmovieswipe.com/faq.html
+- Press kit: https://getmovieswipe.com/press.html
 - Contact: movieswipecontact@gmail.com
